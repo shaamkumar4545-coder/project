@@ -1,0 +1,21 @@
+Users:
+- Jesu Raja Anson (ID: 6960d50b4f4e9133e18928aa)
+- Anson (ID: 69984d44b1d5cd747187bfc9)
+
+Total Transactions: 1
+Sample Transaction:
+{
+  "_id": "69c3ee019c9f8d4ac4f668a4",
+  "userId": "demo-user",
+  "accountId": "demo-account",
+  "title": "ETF",
+  "amount": "1000",
+  "type": "investment",
+  "category": "General",
+  "description": "ETF",
+  "date": "2026-03-25T14:15:29.246Z",
+  "_class": "com.example.FinanceAssist.model.Transaction"
+}
+
+User IDs in transactions: demo-user
+Date Range: 2026-03-25T14:15:29.246Z to 2026-03-25T14:15:29.246Z
